@@ -80,13 +80,18 @@ Essa foi a resposta mais completa. Resumindo:
 
 Fontes citadas: principalmente o Relatório de Deep Research sobre o anarcocapitalismo no Brasil, o artigo da SciELO sobre o Mises Brasil e o texto sobre o Daniel Fraga.
 
-Os prints do chat com as citações estão na pasta [`prints`](prints).
+Os prints do chat com as citações estão na raiz do repositório, nos arquivos de 01 a 05 (lista logo abaixo, em "Materiais do notebook").
 
 ## Materiais do notebook
 
 * Mapa mental: [`mapa-mental/anarcocapitalismo-mapa-mental.png`](mapa-mental/anarcocapitalismo-mapa-mental.png)
-* Slides em PDF: [`slides/anarcocapitalismo-slides.pdf`](slides/anarcocapitalismo-slides.pdf)
-* Prints do chat com as citações: pasta [`prints`](prints)
+* Slides em PDF: [`anarcocapitalismo-slides.pdf`](anarcocapitalismo-slides.pdf)
+* Prints do chat com as citações:
+  * [`01-pergunta-1-roteiro-de-estudos.jpg`](01-pergunta-1-roteiro-de-estudos.jpg)
+  * [`02-pergunta-2-livro-fora-das-fontes.jpg`](02-pergunta-2-livro-fora-das-fontes.jpg)
+  * [`03-pergunta-3-fontes-importadas.jpg`](03-pergunta-3-fontes-importadas.jpg)
+  * [`04-pergunta-4-modelos-de-implementacao.jpg`](04-pergunta-4-modelos-de-implementacao.jpg)
+  * [`05-pergunta-4-gargalos-juridicos.jpg`](05-pergunta-4-gargalos-juridicos.jpg)
 
 ## Link do notebook
 
